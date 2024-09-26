@@ -1,6 +1,6 @@
 import React from 'react';
 import { Container, Row, Col, Card, Button } from 'react-bootstrap';
-import '@styles/Projects.css'; // Import styles for the Projects page
+import '../styles/Projects.css'; // Import styles for the Projects page
 
 const projects = [
   {

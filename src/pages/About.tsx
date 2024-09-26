@@ -1,5 +1,5 @@
 import React from 'react';
-import '@styles/About.css'; // Import styles for About page (make sure to create About.css if needed)
+import '../styles/About.css'; // Import styles for About page (make sure to create About.css if needed)
 
 const About: React.FC = () => {
   return (
