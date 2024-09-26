@@ -1,6 +1,3 @@
-// ResumePage.js
-import React from 'react';
-
 const Resume = () => {
   return (
     <div className="resume-page">
