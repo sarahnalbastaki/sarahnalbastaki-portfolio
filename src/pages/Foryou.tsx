@@ -1,6 +1,6 @@
 import React from 'react';
 import { Container, Row, Col, Card, Button } from 'react-bootstrap';
-import '../styles/Foryou.css'; // Custom styles for ForYou page
+import '../styles/Foryou.css';
 
 const resources = [
   {
@@ -29,7 +29,7 @@ const resources = [
 const ForYou: React.FC = () => {
   return (
     <Container className="foryou-container">
-      <h1 className="text-center">For You</h1>
+      <h1 className="foryou-title">For You</h1>
       <p className="text-center">
         Here's a collection of custom components, open-source contributions, and other resources for you to explore and use.
       </p>

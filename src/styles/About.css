@@ -7,8 +7,9 @@
 
 .about-title {
   font-size: 3rem;
-  color: #007bff; /* Bootstrap's primary blue */
-  margin-bottom: 1rem;
+  color: #FFC0CB;
+  margin-bottom: 2rem;
+  margin-top: 2rem;
 }
 
 .about-description {
@@ -30,3 +31,20 @@
   font-size: 1.125rem;
   line-height: 1.6;
 }
+
+.about-text p {
+  margin-bottom: 16px;
+  text-align: justify
+}
+
+.about-text p:last-child {
+  margin-bottom: 0;
+}
+
+.about-image {
+  width: 730px;
+  height: 200px;
+  object-fit: cover;
+  margin-bottom: 20px;
+}
+

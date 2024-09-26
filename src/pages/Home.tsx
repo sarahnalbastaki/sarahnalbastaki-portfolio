@@ -13,9 +13,11 @@ const Home: React.FC = () => {
         <h1 className="about-me-header">
             <a href="/sarahnalbastaki-portfolio/about">About Me</a>
         </h1>
+
         <h1 className="projects-header">
-                    <a href="/sarahnalbastaki-portfolio/projects">Projects</a>
+            <a href="/sarahnalbastaki-portfolio/projects">Projects</a>
         </h1>
+
         <h1 className="resume-header">
             <a href="/sarahnalbastaki-portfolio/resume.pdf">Resume</a>
         </h1>

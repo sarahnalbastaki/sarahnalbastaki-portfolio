@@ -7,7 +7,6 @@ import Home from './pages/Home';
 import About from './pages/About';
 import Foryou from './pages/Foryou';
 import Projects from './pages/Projects';
-import Resume from './pages/Resume';
 
 
 const App: React.FC = () => {
@@ -20,7 +19,6 @@ const App: React.FC = () => {
         <Route path="/sarahnalbastaki-portfolio/about" element={<About />} />
         <Route path="/sarahnalbastaki-portfolio/projects" element={<Projects />} />
         <Route path="/sarahnalbastaki-portfolio/for-you" element={<Foryou />} />
-        <Route path="/sarahnalbastaki-portfolio/resume.pdf" element={<Resume />} />
       </Routes>
     </Router>
   </>
