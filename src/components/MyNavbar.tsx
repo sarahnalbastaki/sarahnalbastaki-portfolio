@@ -17,7 +17,7 @@ function MyNavbar() {
               <NavDropdown.Item href="/sarahnalbastaki-portfolio/about">About Me</NavDropdown.Item>
               <NavDropdown.Item href="/sarahnalbastaki-portfolio/for-you">For You</NavDropdown.Item>
               <NavDropdown.Divider />
-              <NavDropdown.Item href="#action/3.4">
+              <NavDropdown.Item href="/sarahnalbastaki-portfolio/resume.pdf">
                 Resume
               </NavDropdown.Item>
             </NavDropdown>
